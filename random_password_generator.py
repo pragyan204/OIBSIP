@@ -47,3 +47,4 @@ def display_password():
 
 if __name__ == "__main__":
     display_password()
+    
